@@ -1,0 +1,491 @@
+{
+  "topics": [
+    [
+      "ethical-hacker-hiring",
+      "Hiring an Ethical Hacker",
+      "Cybersecurity",
+      "Use written permission, a defined scope, agreed testing windows, and documented stop conditions."
+    ],
+    [
+      "penetration-testing",
+      "Penetration Testing",
+      "Cybersecurity",
+      "Treat testing as a time-bounded assessment; validate findings, remediate risk, and retest rather than promise perfect security."
+    ],
+    [
+      "website-security",
+      "Website Security",
+      "Website security",
+      "Focus on systems you own or are authorized to assess, secure administrator access, maintain backups, and track fixes."
+    ],
+    [
+      "crypto-tracing",
+      "Cryptocurrency Tracing",
+      "Crypto tracing",
+      "Public ledgers can show transaction patterns, but an address does not automatically identify a person and tracing does not guarantee recovery."
+    ],
+    [
+      "wallet-compromise",
+      "Compromised Crypto Wallets",
+      "Incident response",
+      "Protect remaining assets from a trusted device, preserve transaction evidence, and never share seed phrases or private keys."
+    ],
+    [
+      "exchange-security",
+      "Cryptocurrency Exchange Security",
+      "Account security",
+      "Use official support channels, unique credentials, strong MFA, and careful evidence handling; platforms may not reverse confirmed transfers."
+    ],
+    [
+      "recovery-scams",
+      "Crypto Recovery Scams",
+      "Scam prevention",
+      "Reject guaranteed recovery claims, unexplained release fees, requests for wallet secrets, and unsolicited remote-access offers."
+    ],
+    [
+      "fraud-evidence",
+      "Online Fraud Evidence",
+      "Digital evidence",
+      "Keep original records, payment references, messages, URLs, and a dated timeline; share information only with verified recipients."
+    ],
+    [
+      "asset-tracing",
+      "Lawful Asset Tracing",
+      "Asset tracing",
+      "Use lawful records and written authority, distinguish verified facts from inferences, and understand that tracing does not itself return assets."
+    ],
+    [
+      "digital-forensics",
+      "Digital Forensics",
+      "Digital forensics",
+      "Document authority, methods, evidence handling, limitations, and conclusions clearly."
+    ],
+    [
+      "chain-of-custody",
+      "Digital Evidence Chain of Custody",
+      "Digital forensics",
+      "Track identification, collection, transfers, storage, access, and integrity checks according to the case and applicable rules."
+    ],
+    [
+      "email-security",
+      "Email Account Security",
+      "Account security",
+      "Secure account recovery methods, preserve original messages and alerts, and use provider-approved reporting channels."
+    ],
+    [
+      "cloud-security",
+      "Cloud Account Security",
+      "Cloud security",
+      "Contain unauthorized access, preserve audit logs, rotate exposed credentials carefully, and review privilege changes."
+    ],
+    [
+      "account-takeover",
+      "Account Takeover",
+      "Incident response",
+      "Use official recovery, revoke suspicious sessions, protect linked email and phone accounts, and retain alerts."
+    ],
+    [
+      "ransomware-response",
+      "Ransomware Response",
+      "Incident response",
+      "Follow the incident plan, preserve logs, isolate affected systems with expert guidance, and validate backups before restoration."
+    ],
+    [
+      "incident-timeline",
+      "Cyber Incident Timelines",
+      "Incident response",
+      "Record timestamps and time zones, separate facts from hypotheses, preserve source records, and document response actions."
+    ],
+    [
+      "sim-swap",
+      "SIM-Swap Prevention",
+      "Fraud prevention",
+      "Protect carrier accounts, use stronger MFA than SMS where possible, and respond quickly to unexpected loss of phone service."
+    ],
+    [
+      "wordpress-security",
+      "WordPress Security",
+      "Website security",
+      "Review privileged users, plugins, themes, credentials, backups, hosting logs, and the suspected entry point."
+    ],
+    [
+      "phishing-response",
+      "Phishing Response",
+      "Incident response",
+      "Report suspicious messages through approved channels, protect credentials if entered, and preserve original message data."
+    ],
+    [
+      "lost-assets",
+      "Lost Asset Recovery",
+      "Lawful asset recovery",
+      "Collect proof of ownership, incident records, and payment references, then contact relevant providers or authorities."
+    ]
+  ],
+  "angles": [
+    [
+      "first-steps",
+      "First Steps",
+      "Define the incident, asset, account, or system and separate confirmed facts from assumptions."
+    ],
+    [
+      "preparation-checklist",
+      "Preparation Checklist",
+      "Prepare authorization, identifiers, trusted contacts, a secure evidence location, and a data-protection plan."
+    ],
+    [
+      "evidence-to-collect",
+      "Evidence to Collect",
+      "Keep original records, timestamps, identifiers, communications, receipts, and case numbers; note each source."
+    ],
+    [
+      "common-warning-signs",
+      "Common Warning Signs",
+      "Watch for pressure, requests for secrets, unexplained fees, privilege changes, or claims that cannot be independently verified."
+    ],
+    [
+      "provider-questions",
+      "Questions to Ask a Provider",
+      "Ask about identity, experience, written scope, methods, deliverables, data retention, costs, and limitations."
+    ],
+    [
+      "mistakes-to-avoid",
+      "Mistakes to Avoid",
+      "Avoid deleting originals, speculative changes, sharing credentials, unexpected release fees, and unsupported conclusions."
+    ],
+    [
+      "safe-reporting",
+      "Safe Reporting Steps",
+      "Use official channels reached independently and keep the report number and correspondence."
+    ],
+    [
+      "risk-prioritization",
+      "Prioritizing Risk",
+      "Rank issues by impact, exposure, urgency, and evidence; address active compromise before longer-term improvements."
+    ],
+    [
+      "recovery-planning",
+      "Planning Next Steps",
+      "Set a realistic objective, assign responsibilities, preserve records, and track each action."
+    ],
+    [
+      "privacy-protection",
+      "Protecting Privacy",
+      "Share only necessary information and never disclose passwords, seed phrases, private keys, or one-time codes."
+    ],
+    [
+      "cost-and-budget",
+      "Costs and Budgeting",
+      "Request written fees, deliverables, exclusions, additional charges, cancellation terms, and follow-up costs."
+    ],
+    [
+      "authorization-and-scope",
+      "Authorization and Scope",
+      "Document who authorizes work, what is in scope, exclusions, testing windows, and safe stop conditions."
+    ],
+    [
+      "documentation-template",
+      "Building a Case Summary",
+      "Summarize what happened, when, affected systems or assets, relevant IDs, actions taken, and open questions."
+    ],
+    [
+      "verification-steps",
+      "Verifying Claims",
+      "Cross-check identity, records, and claims through independent official sources; a screenshot is not proof by itself."
+    ],
+    [
+      "aftercare",
+      "Follow-Up and Aftercare",
+      "Track responses and remediation, monitor for recurrence, and review what controls should change."
+    ],
+    [
+      "legal-and-ethical-limits",
+      "Legal and Ethical Limits",
+      "Work only within valid authority and applicable law; do not access third-party systems without permission."
+    ],
+    [
+      "incident-timeline",
+      "Creating a Timeline",
+      "Order events chronologically, preserve original timestamps, note time zones, and label uncertain times as estimates."
+    ],
+    [
+      "working-with-platforms",
+      "Working with Platforms",
+      "Contact providers through official channels, submit relevant identifiers, and keep ticket numbers."
+    ],
+    [
+      "avoiding-follow-up-scams",
+      "Avoiding Follow-Up Scams",
+      "Reject unsolicited helpers offering guarantees, advance unlock charges, remote access, or requests for secrets."
+    ],
+    [
+      "security-controls",
+      "Security Controls to Review",
+      "Review access permissions, authentication, recovery options, logging, updates, backups, and alerts."
+    ],
+    [
+      "retention-and-backups",
+      "Retention and Backups",
+      "Preserve relevant logs before they expire, secure backups, test restoration, and limit access."
+    ],
+    [
+      "working-with-counsel",
+      "When to Seek Qualified Advice",
+      "Seek qualified local advice for ownership disputes, reporting duties, court evidence, or cross-border questions."
+    ],
+    [
+      "success-criteria",
+      "Defining Success Criteria",
+      "Define measurable deliverables rather than promising a particular outcome."
+    ],
+    [
+      "service-comparison",
+      "Comparing Service Options",
+      "Compare scope, methods, qualifications, data handling, independence, costs, and limitations."
+    ],
+    [
+      "red-flags",
+      "Red Flags to Investigate",
+      "Investigate urgency, secrecy, unexplained payment requests, unsupported guarantees, and demands for credentials."
+    ],
+    [
+      "secure-communications",
+      "Secure Communication Practices",
+      "Verify the recipient and use an appropriate secure channel before sending confidential records."
+    ],
+    [
+      "technical-records",
+      "Technical Records to Preserve",
+      "Preserve relevant logs, identifiers, configuration snapshots, timestamps, versions, and exact error messages."
+    ],
+    [
+      "third-party-dependencies",
+      "Third-Party Dependencies",
+      "Identify actions requiring a bank, exchange, carrier, hosting provider, authority, or court."
+    ],
+    [
+      "remediation-plan",
+      "Building a Remediation Plan",
+      "For each confirmed issue, record severity, owner, action, deadline, validation method, and residual risk."
+    ],
+    [
+      "reviewing-a-report",
+      "Reviewing a Report",
+      "Check that the report distinguishes observations from assumptions, explains limitations, and provides actionable steps."
+    ],
+    [
+      "account-recovery",
+      "Account Recovery Safely",
+      "Use official recovery, secure linked email and phone accounts, revoke unknown sessions, and review recovery methods."
+    ],
+    [
+      "transaction-records",
+      "Transaction Records",
+      "Record network, asset, transaction hash, addresses, amount, timestamp, and relevant service reference."
+    ],
+    [
+      "ownership-evidence",
+      "Proof of Ownership",
+      "Gather legitimate receipts, statements, registrations, or account records without altering originals."
+    ],
+    [
+      "confidentiality",
+      "Confidentiality Questions",
+      "Clarify access, storage location, retention period, transfer method, and return or deletion process."
+    ],
+    [
+      "quality-assurance",
+      "Quality Assurance",
+      "Check that conclusions are supported, scope was respected, limitations are stated, and follow-up validation is planned."
+    ],
+    [
+      "emergency-contacts",
+      "Emergency Contacts",
+      "Identify who can approve containment, pause work, contact providers, and respond to operational risk."
+    ],
+    [
+      "phishing-resistance",
+      "Reducing Phishing Risk",
+      "Use unique passwords, strong MFA, verified bookmarks, updates, and a simple reporting route."
+    ],
+    [
+      "access-review",
+      "Reviewing Access",
+      "List users, roles, sessions, API keys, integrations, and recovery methods; remove unnecessary access carefully."
+    ],
+    [
+      "data-minimization",
+      "Minimizing Data Exposure",
+      "Collect only needed information, restrict access, redact unrelated data, and dispose of copies under policy."
+    ],
+    [
+      "independent-validation",
+      "Independent Validation",
+      "Verify important claims using independent records or official channels rather than a single interested source."
+    ],
+    [
+      "communications-log",
+      "Maintaining a Communications Log",
+      "Record dates, parties, channel, case number, key statements, and attachments."
+    ],
+    [
+      "service-agreement",
+      "Reviewing the Agreement",
+      "Read scope, deliverables, exclusions, fees, cancellation, confidentiality, and retention terms before signing."
+    ],
+    [
+      "scope-creep",
+      "Preventing Scope Creep",
+      "Document change requests and obtain approval before adding systems, actions, or data types."
+    ],
+    [
+      "monitoring",
+      "Monitoring After the Incident",
+      "Review alerts and logs, check that controls remain in place, and define a response if suspicious activity returns."
+    ],
+    [
+      "backup-validation",
+      "Validating Backups",
+      "Check backup recency, integrity, access restrictions, and restoration procedures before relying on them."
+    ],
+    [
+      "credential-hygiene",
+      "Credential Hygiene",
+      "Use unique credentials, strong MFA, secure recovery codes, and prompt rotation when exposure is suspected."
+    ],
+    [
+      "reporting-mistakes",
+      "Reporting Mistakes to Avoid",
+      "Avoid speculation, unsupported accusations, missing dates, edited-only screenshots, or sharing secrets."
+    ],
+    [
+      "cross-border-considerations",
+      "Cross-Border Considerations",
+      "Record relevant jurisdictions and seek qualified advice when privacy, reporting, ownership, or legal process crosses borders."
+    ],
+    [
+      "retention-policy",
+      "Setting a Retention Policy",
+      "Define what is kept, why, who approves access, when records are reviewed, and how deletion is documented."
+    ],
+    [
+      "case-handover",
+      "Preparing a Case Handover",
+      "Create a handover with objective, scope, timeline, evidence index, actions, current risks, contacts, and open questions."
+    ],
+    [
+      "reviewing-claims",
+      "Reviewing Claims Carefully",
+      "Separate documented facts, reasonable inferences, and unsupported statements; identify what evidence is missing."
+    ],
+    [
+      "budget-approval",
+      "Planning Approval and Budget",
+      "Estimate deliverables and follow-up costs, and obtain approval before work begins."
+    ],
+    [
+      "customer-communication",
+      "Communicating with Affected People",
+      "Use accurate, timely, privacy-conscious messages and follow applicable notification requirements."
+    ],
+    [
+      "vendor-due-diligence",
+      "Vendor Due Diligence",
+      "Verify identity, qualifications, references, security practices, subcontractors, and conflicts of interest."
+    ],
+    [
+      "proof-of-integrity",
+      "Checking Evidence Integrity",
+      "Preserve originals and document copies and transfers; a hash can detect changes but does not prove truth or lawful collection."
+    ],
+    [
+      "incident-severity",
+      "Assessing Severity",
+      "Consider impact, exposure, affected people, attacker control, recoverability, and uncertainty."
+    ],
+    [
+      "communication-security",
+      "Protecting Communications",
+      "Confirm the recipient and channel, restrict shared documents, and avoid unverified addresses."
+    ],
+    [
+      "regulatory-reporting",
+      "Reporting and Notification",
+      "Identify relevant reporting duties and deadlines with qualified advice where needed."
+    ],
+    [
+      "testing-readiness",
+      "Readiness Before Testing",
+      "Confirm authorization, test accounts, backups, monitoring, exclusions, contacts, and stop conditions."
+    ],
+    [
+      "finding-validation",
+      "Validating Findings",
+      "Reproduce issues only within scope, record conditions and impact, and document uncertainty or false positives."
+    ],
+    [
+      "remediation-verification",
+      "Verifying Remediation",
+      "Retest the original condition, check for regressions, and record evidence and residual limitations."
+    ],
+    [
+      "service-boundaries",
+      "Understanding Service Boundaries",
+      "Clarify what a provider can do, what requires cooperation or legal authority, and what is excluded."
+    ],
+    [
+      "public-records",
+      "Using Public Records Responsibly",
+      "Check provenance and dates, respect privacy rules, and do not treat public availability as proof of identity."
+    ],
+    [
+      "fraudulent-fees",
+      "Recognizing Fraudulent Fees",
+      "Independently verify the legal basis and recipient for any charge; beware urgent tax, unlock, or release payments."
+    ],
+    [
+      "device-safety",
+      "Device Safety",
+      "Use trusted updated devices and follow qualified guidance if a device may be compromised."
+    ],
+    [
+      "identity-protection",
+      "Protecting Identity Information",
+      "Limit exposure of identity documents, use verified channels, and ask why each data field is needed."
+    ],
+    [
+      "records-index",
+      "Building an Evidence Index",
+      "Assign each record an ID, description, source, collection date, storage location, and access notes."
+    ],
+    [
+      "service-outcomes",
+      "Evaluating Outcomes",
+      "Measure progress by documented findings, safe containment, or completed deliverables rather than assumptions."
+    ],
+    [
+      "handover-questions",
+      "Questions Before Handover",
+      "Confirm recipient, purpose, secure transfer, file list, permissions, retention, and receipt acknowledgement."
+    ],
+    [
+      "periodic-review",
+      "Scheduling Periodic Reviews",
+      "Set a review cadence for access, backups, incidents, and remediation based on risk and change frequency."
+    ],
+    [
+      "risk-acceptance",
+      "Documenting Residual Risk",
+      "Record unresolved risk, reason for temporary acceptance, approver, compensating controls, and review date."
+    ],
+    [
+      "final-checklist",
+      "Final Checklist",
+      "Confirm objective, authority, evidence, contacts, open risks, next actions, and secure storage before closure."
+    ],
+    [
+      "closing-the-case",
+      "Closing a Case Responsibly",
+      "Record the outcome, unresolved questions, records retained, access revoked, and follow-up owner; do not claim certainty beyond the evidence."
+    ]
+  ]
+}
