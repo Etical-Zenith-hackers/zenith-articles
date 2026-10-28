@@ -1,0 +1,1 @@
+Bulk publishing trigger: this file causes the article-generation workflow to run when committed to main. The workflow creates 1,460 additional static article pages and updates sitemap.xml.
